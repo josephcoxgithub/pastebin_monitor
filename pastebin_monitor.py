@@ -102,7 +102,7 @@ def the_loop():
                                 
                                 print "[!] Sent email notification"
 
-	      print "[*] Scanned all 50 results"
+	print "[*] Scanned all 50 results"
                         
 # Start the loop
 while True:
